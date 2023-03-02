@@ -1,5 +1,5 @@
 ## AI Number Recognition
-### This project made along side the [Poc AI pool](https://github.com/PoCInnovation/Pool2023/tree/main/Artificial%20Intelligence) is a gradio application detecting what number was drawn.
+### This project made alongside the [Poc AI pool](https://github.com/PoCInnovation/Pool2023/tree/main/Artificial%20Intelligence) is a gradio application detecting what number was drawn.
 ### The AI model was made using PyTorch and trained on the MNIST dataset with an accuracy of ~ 70%.
 
 ---
